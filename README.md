@@ -1,0 +1,2 @@
+# Engineering-robotautomatic-alignment
+利用Python+Opencv进行深度图的处理应用达到能够识别物体边框并反馈距离的效果
